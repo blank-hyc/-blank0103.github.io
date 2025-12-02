@@ -309,4 +309,5 @@ Thanks to all contributors for their contributions to this project. If you have 
 [![Star History Chart](https://api.star-history.com/svg?repos=matsuzaka-yuki/Mizuki&type=Date)](https://star-history.com/#matsuzaka-yuki/Mizuki&Date)
 ---
 
-⭐ If you find this project helpful, please consider giving it a star!
+⭐ If you find this project helpful, please consider giving it a star!#   - b l a n k 0 1 0 3 . g i t h u b . i o  
+ 
