@@ -99,6 +99,22 @@ const localPlaylist = [
 		url: "assets/music/url/2.mp3",
 		duration: 200,
 	},
+    {
+		id: 4,
+		title: "Starlight Prologue",
+		artist: "Liella",
+		cover: "assets/music/cover/2.jpg",
+		url: "assets/music/url/3.mp3",
+		duration: 200,
+	},
+    {
+		id: 5,
+		title: "はじまりの羽音",
+		artist: "蓮ノ空女学院スクールアイドルクラブ",
+		cover: "assets/music/cover/3.jpeg",
+		url: "assets/music/url/4.mp3",
+		duration: 200,
+	},
 ];
 
 async function fetchMetingPlaylist() {
