@@ -15,14 +15,16 @@ import type {
 import { LinkPreset } from "./types/config";
 
 // 移除i18n导入以避免循环依赖
-
+// git add .
+//git commit -m "first commit"
+//git push -u origin main
 // 定义站点语言
 const SITE_LANG = "en"; // 语言代码，例如：'en', 'zh_CN', 'ja' 等。
 const SITE_TIMEZONE = 8; //设置你的网站时区 from -12 to 12 default in UTC+8
 export const siteConfig: SiteConfig = {
 	title: "空白",
 	subtitle: "",
-	siteURL: "https://mizuki.mysqil.com/", // 请替换为你的站点URL，以斜杠结尾
+	siteURL: "https://blank0103.netlify.app/", // 请替换为你的站点URL，以斜杠结尾
 	siteStartDate: "2025-01-01", // 站点开始运行日期，用于站点统计组件计算运行天数
 
 	timeZone: SITE_TIMEZONE,
@@ -51,7 +53,7 @@ export const siteConfig: SiteConfig = {
 		// 顶栏标题文本
 		text: "空白",
 		// 顶栏标题图标路径，默认使用 public/assets/home/home.png
-		icon: "assets/home/home.png",
+		icon: "assets/home/a.jpg",
 	},
 
 	bangumi: {
