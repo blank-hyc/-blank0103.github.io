@@ -77,10 +77,10 @@ let volumeBar: HTMLElement;
 const localPlaylist = [
 	{
 		id: 1,
-		title: "ひとり上手",
-		artist: "Kaya",
+		title: "Tiny stars",
+		artist: "澀谷香音/唐可可",
 		cover: "assets/music/cover/hitori.jpg",
-		url: "assets/music/url/hitori.mp3",
+		url: "assets/music/url/1.mp3",
 		duration: 240,
 	},
 	{
@@ -93,10 +93,10 @@ const localPlaylist = [
 	},
 	{
 		id: 3,
-		title: "春雷の頃",
-		artist: "22/7",
+		title: "Holiday∞Holiday",
+		artist: "スリーズブーケ",
 		cover: "assets/music/cover/cl.jpg",
-		url: "assets/music/url/cl.mp3",
+		url: "assets/music/url/2.mp3",
 		duration: 200,
 	},
 ];
