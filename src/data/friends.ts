@@ -22,7 +22,7 @@ export const friendsData: MusicItem[] = [
 	},
 	{
 		id: 2,
-		title: "Mizuki Docs",
+		title: "春日影",
 		imgurl:
 			"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrY00JYEp3khld-o-2kRI5q4SrqLRAI4IBng&s",
 		desc: "MyGO!!!!! ver.",
