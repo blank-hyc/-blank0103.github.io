@@ -239,6 +239,11 @@ export const navBarConfig: NavBarConfig = {
 			icon: "material-symbols:person",
 			children: [
 				{
+					name: "Music",
+					url: "/music/",
+					icon: "material-symbols:star",
+				},
+				{
 					name: "Anime",
 					url: "/anime/",
 					icon: "material-symbols:movie",
@@ -257,20 +262,8 @@ export const navBarConfig: NavBarConfig = {
 		},
 		{
 			name: "About",
-			url: "/content/",
-			icon: "material-symbols:info",
-			children: [
-				{
-					name: "About",
-					url: "/about/",
-					icon: "material-symbols:person",
-				},
-				{
-					name: "Friends",
-					url: "/friends/",
-					icon: "material-symbols:group",
-				},
-			],
+			url: "/about/",
+			icon: "material-symbols:person",
 		},
 		{
 			name: "Others",
