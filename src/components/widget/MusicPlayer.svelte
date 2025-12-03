@@ -115,6 +115,14 @@ const localPlaylist = [
 		url: "assets/music/url/4.mp3",
 		duration: 200,
 	},
+    {
+		id: 6,
+		title: "始まりは君の空",
+		artist: "Liella",
+		cover: "assets/music/cover/6.jpg",
+		url: "assets/music/url/5.mp3",
+		duration: 200,
+	},
 ];
 
 async function fetchMetingPlaylist() {

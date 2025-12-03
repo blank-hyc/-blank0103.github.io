@@ -1,49 +1,46 @@
+# **作為遊戲人生的忠實粉絲，網名就是這麼來的**
+## **首頁看的出來，還是重度LLer**
+
+哈囉大家好，我是空白(~~歡迎這麼叫我ww~~)，是個朝特選前進的高二生，~~目前在資優班擔任墊神的角色~~
+這裡大概會更新我的比賽、專題、社團、~~追星~~、~~一些有的沒的~~
+
+# **經歷**
+  - roborave sumo bronze
+  - 成大物理人才培育計畫
+  - 資訊能力競賽 校內代表
+  - 2026火箭競賽(結果待)
+  - immc 數學建模秋季賽(結果待)
+  - 天下第一物理大會 決賽
+  - AERC 佳作(倒楣的連兩年佳作)
+  - ~~曾經是疊杯國手~~
+
+# **坑**
+  - LoveLive!
+    - 重坑水、星、蓮，偶爾看一下虹(基本上是看しずく啦，燈降板後就很少看了) 比較常在看蓮跟星
+    - 主推:果南 しずく 戀 梢 さや 副推基本全團 School Idol大好き  
+**說到偶像，日本偶像也會看(嗚~大家真的好可愛)**
+  - 重度女聲優癡
+    - ともり、なす、なぎ、初大人、陽菜……基本LL的聲優都有追，~~陽菜是意外~~
+    - 最喜歡燈露了，Lisani Taipei參戰，也是看過燈露現場的人了嘻嘻
+  - 百鬼組-お嬢様真的很可愛啊
+  - 重度百合控-甚麼都看，什麼都追(基本上)(確信)
+  - 稱職地寶可夢訓練家-娃娃、遊戲、卡牌一個不少全部都有玩ww
+  - 世界計畫+緋染天空玩家-要打得有點多之後再說
+  - 中娛-基本就是選秀那一掛(創造營+青你)加snh48，有點多懶得列了
+    而且還會看浪姊wwww
+
+**我追的基本很雜啦，除了韓團，歡迎大家來一起變蓮瘟www**  
+**最近有打算看邦邦跟少歌，看看我什麼時候會陷進去(現在是正在go就是了)**
+
+---
+大概就是這樣了啦，目前就是一個混跡在動漫圈、LL圈、資訊圈、機器人的宅
+(有想到再補)
+
+最後的最後
+# 楠木燈我喜歡你
+
+---
 
 This website is built with the **Astro** framework using the [Mizuki](https://github.com/matsuzaka-yuki/mizuki) theme.
 
 ::github{repo="matsuzaka-yuki/Mizuki"}
-
-## 🌟 Theme Features
-
-### 🎨 Design & User Experience
-- **Modern & Elegant Design** - Clean, minimalist interface with beautiful typography
-- **Fully Responsive** - Optimized for all devices from mobile to desktop
-- **Dark/Light Mode** - Automatic theme switching with smooth transitions
-- **Beautiful Typography** - Enhanced readability with JetBrains Mono font
-- **Smooth Animations** - Fluid page transitions and interactive elements
-
-### 🔍 Content & Search
-- **Advanced Search** - Powered by [Pagefind](https://pagefind.app/) for fast, accurate results
-- **Enhanced Markdown** - Extended syntax with code highlighting and math support
-- **Interactive Table of Contents** - Auto-scroll navigation for long articles
-- **RSS Feed Generation** - Stay updated with automatic feed generation
-- **Reading Time Estimation** - Know how long articles take to read
-- **Post Categorization** - Organize content with tags and categories
-
-
-
-### 📱 Special Pages
-- **Anime Tracking Page** - Track your anime watching progress with ratings
-- **Friends Links Page** - Showcase friend websites with beautiful cards
-- **Diary/Moments Page** - Share life moments like social media posts
-- **Archive Page** - Organized timeline view of all posts
-- **About Page** - Customizable personal introduction (this page!)
-
-### 🛠 Technical Features
-- **Enhanced Code Blocks** - Powered by [Expressive Code](https://expressive-code.com/)
-- **Math Support** - LaTeX rendering with KaTeX for mathematical expressions
-- **Image Optimization** - PhotoSwipe gallery with lazy loading
-- **SEO Optimized** - Built-in sitemap and meta tags for better search visibility
-- **Performance Optimized** - Fast loading with caching and optimization
-- **Comment System Ready** - Integration support for Twikoo comments
-
-### 🎯 Advanced Markdown Features
-- **Callouts & Admonitions** - Beautiful info boxes with `> [!NOTE]`, `> [!TIP]`, `> [!WARNING]`
-- **Mathematical Equations** - Write LaTeX math with `$inline$` and `$$block$$` syntax
-- **GitHub Cards** - Embed repository cards with `::github{repo="user/repo"}`
-- **Syntax Highlighting** - Advanced code highlighting with line numbers
-- **Copy Code Buttons** - Easy code copying functionality
-
----
-
-*Built with ❤️ using Astro and inspired by modern web design principles.*
