@@ -240,7 +240,7 @@ export const navBarConfig: NavBarConfig = {
 			children: [
 				{
 					name: "Music",
-					url: "/music/",
+					url: "/friends/",
 					icon: "material-symbols:star",
 				},
 				{
