@@ -253,11 +253,11 @@ export const navBarConfig: NavBarConfig = {
 					url: "/diary/",
 					icon: "material-symbols:book",
 				},
-				{
+				/*{
 					name: "Gallery",
 					url: "/albums/",
 					icon: "material-symbols:photo-library",
-				},
+				},*/
 			],
 		},
 		{
@@ -280,11 +280,11 @@ export const navBarConfig: NavBarConfig = {
 					url: "/skills/",
 					icon: "material-symbols:psychology",
 				},
-				{
-					name: "Timeline",
-					url: "/timeline/",
-					icon: "material-symbols:timeline",
-				},
+				//{
+					//name: "Timeline",
+					//url: "/timeline/",
+					//icon: "material-symbols:timeline",
+				//},
 			],
 		},
 	],
