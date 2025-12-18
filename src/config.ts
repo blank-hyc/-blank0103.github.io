@@ -115,7 +115,7 @@ export const siteConfig: SiteConfig = {
 		carousel: {
 			enable: true, // 为 true 时：为多张图片启用轮播。为 false 时：从数组中随机显示一张图片
 
-			interval: 1.5, // 轮播间隔时间（秒）
+			interval: 5, // 轮播间隔时间（秒）
 		},
 
 		waves: {
@@ -138,11 +138,11 @@ export const siteConfig: SiteConfig = {
 			title: "", // 主页横幅主标题
 
 			subtitle: [
-				"特別なことはないけど、君がいると十分です",
-				"今でもあなたは私の光",
+				"歡迎來到我的blog",
+				/*"這裡基本什麼都有",
 				"君ってさ、知らないうちに私の毎日になってたよ",
 				"君と話すと、なんか毎日がちょっと楽しくなるんだ",
-				"今日はなんでもない日。でも、ちょっとだけいい日",
+				"今日はなんでもない日。でも、ちょっとだけいい日",*/
 			],
 			typewriter: {
 				enable: true, // 启用副标题打字机效果
